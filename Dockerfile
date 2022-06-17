@@ -1,1 +1,1 @@
-FROM rancher/kubectl:v1.23.3
+FROM scorpio2002/nexus:3.39.0
