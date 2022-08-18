@@ -1,1 +1,1 @@
-FROM linkedin/datahub-kafka-setup:head
+FROM acryldata/datahub-mysql-setup:head
