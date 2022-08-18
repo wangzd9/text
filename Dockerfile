@@ -1,1 +1,1 @@
-FROM linkedin/datahub-elasticsearch-setup:head
+FROM mysql:5.7
