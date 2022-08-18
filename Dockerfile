@@ -1,1 +1,1 @@
-FROM confluentinc/cp-kafka:5.4.0
+FROM confluentinc/cp-schema-registry:5.4.0
