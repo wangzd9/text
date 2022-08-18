@@ -1,1 +1,1 @@
-FROM linkedin/datahub-frontend-react:head
+FROM linkedin/datahub-kafka-setup:head
