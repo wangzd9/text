@@ -1,1 +1,1 @@
-FROM scorpio2002/nexus:3.39.0
+FROM elasticsearch:7.9.3
