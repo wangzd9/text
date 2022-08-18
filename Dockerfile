@@ -1,1 +1,1 @@
-FROM acryldata/datahub-mysql-setup:head
+FROM acryldata/datahub-actions:head
