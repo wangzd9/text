@@ -1,1 +1,1 @@
-FROM confluentinc/cp-kafka:5.4.0
+FROM neo4j:4.2.4
