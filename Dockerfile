@@ -1,1 +1,1 @@
-FROM mysql:5.7
+FROM linkedin/datahub-frontend-react:head
