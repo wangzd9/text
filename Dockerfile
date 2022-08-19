@@ -1,1 +1,1 @@
-FROM confluentinc/cp-schema-registry:5.4.0
+FROM kuaifan/php:swoole-8.0
