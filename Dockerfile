@@ -1,1 +1,1 @@
-FROM confluentinc/cp-kafka:5.4.0
+FROM kuaifan/fileview:4.1.0-SNAPSHOT-RC4
