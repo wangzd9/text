@@ -1,1 +1,1 @@
-FROM kuaifan/php:swoole-8.0
+FROM onlyoffice/documentserver:7.0.0.132
