@@ -1,1 +1,1 @@
-FROM confluentinc/cp-kafka:5.4.0
+FROM jgraph/export-server
