@@ -1,1 +1,1 @@
-FROM onlyoffice/documentserver:7.0.0.132
+FROM ubuntu:18.04
