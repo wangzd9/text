@@ -1,1 +1,1 @@
-FROM zmister/mrdoc:v4
+FROM jgraph/drawio
