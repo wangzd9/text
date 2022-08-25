@@ -1,1 +1,1 @@
-FROM jgraph/drawio
+FROM mortiv16/sourcetrail_indexer
