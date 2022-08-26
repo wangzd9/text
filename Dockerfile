@@ -1,1 +1,1 @@
-FROM mortiv16/sourcetrail_indexer
+FROM kindest/node:v1.24.0
