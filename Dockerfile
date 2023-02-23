@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
 RUN apt-get update
 RUN apt-get install -y wget
-RUN wget https://github.com/JERRY-Z-J-R/I-love-you-3-thousand/archive/refs/heads/master.zip
+RUN wget https://github.com/ben1234560/k8s_PaaS/archive/refs/heads/master.zip
 
