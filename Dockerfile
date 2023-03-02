@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.16.2
+FROM docker.elastic.co/logstash/logstash:6.4.0
