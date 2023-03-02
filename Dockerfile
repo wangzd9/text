@@ -1,1 +1,1 @@
-FROM neo4j:4.2.4
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.0
