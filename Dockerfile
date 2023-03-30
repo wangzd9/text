@@ -1,1 +1,4 @@
-FROM docker.elastic.co/kibana/kibana:8.5.1
+
+
+FROM ubuntu:18.04
+RUN curl -sLO https://github.com/argoproj/argo-workflows/releases/download/v3.4.5/argo-darwin-amd64.gz
