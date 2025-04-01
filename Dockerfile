@@ -1,1 +1,1 @@
-FROM nginx:1.18.0
+FROM mongo:4.2.7
